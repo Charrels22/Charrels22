@@ -26,6 +26,6 @@ Sou um recém desenvolvedor fullstack, formado pela Startse, onde participei do 
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charrels22&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+<img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charrels22&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Charrels22&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </div>
