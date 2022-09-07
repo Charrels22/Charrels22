@@ -8,7 +8,7 @@
   </a>
 </div>
 
-Sou um recém desenvolvedor fullstack, formado pela Startse, onde participei do [Tech Academy de 2022 - 1°Turma](https://github.com/Charrels22).
+Sou um recém desenvolvedor fullstack, formado pela Startse, onde participei do [Tech Academy de 2022 - 1°Turma](https://lms.startse.com/certificado/v2/62e293e41aa0ba726fbb04c4?studentId=626856ec8ca05b167fea210f).
 
 - ❤ Estudante de Desenvolvimento Web
 - 💙 Fã da Startse
