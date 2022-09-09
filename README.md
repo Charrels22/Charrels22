@@ -1,7 +1,7 @@
-<img src = "devs.gif" width = "425px" align = "right">
+<img src = "me-comp.png">
 
-# Seja Bem-vindo!<br>
-<h4>"O sucesso é a soma de pequenos esgorços repetidos dia após dia" - Robert Collier</h4>
+<h1 align = "center">Seja Bem-vindo!</h1>
+<h4 align = "center">"O sucesso é a soma de pequenos esgorços repetidos dia após dia" - Robert Collier</h4>
   <div id="badges">
   <a href = "https://www.linkedin.com/in/israel-mello-729a3294/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
