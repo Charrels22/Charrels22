@@ -25,6 +25,6 @@ Estudante de Desenvolvimento Web | Fã da Startse | Aprendendo algo mais sobre f
 
 
 <div align = "center">
-<img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charrels22&show_icons=true&theme=chartreuse-dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Charrels22&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charrels22&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Charrels22&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 </div>
