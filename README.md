@@ -1,7 +1,7 @@
 <img src = "me-comp.png">
 
 <h1 align = "center">Olá! Eu sou Israel Mello</h1>
-<h4 align = "center">"O sucesso é a soma de pequenos esgorços repetidos dia após dia" - Robert Collier</h4>
+<h4 align = "center">"O sucesso é a soma de pequenos esforços repetidos dia após dia" - Robert Collier</h4>
   <div id="badges" align = "center">
   <a href = "https://www.linkedin.com/in/israel-mello-729a3294/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
 <h4 align = "center">Sou um recém desenvolvedor fullstack, formado pela Startse, onde participei do [Tech Academy de 2022 - 1°Turma]</h4>
 
 <ul align = "center">
-Estudante de Desenvolvimento Web | Fã da Startse | Estudando ReactJS.
+Estudante de Desenvolvimento Web | Estudando ReactJS | FullStack
 </ul>
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
