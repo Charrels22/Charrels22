@@ -1,4 +1,4 @@
-<img src = "me-comp.png">
+<img height = "350px" width="1000px" src = "https://i.pinimg.com/originals/03/66/e7/0366e7344c1c956ddd9b583d18173936.png">
 
 <h1 align = "center">Olá! Eu sou Israel Mello</h1>
 <h4 align = "center">"O sucesso é a soma de pequenos esforços repetidos dia após dia" - Robert Collier</h4>
